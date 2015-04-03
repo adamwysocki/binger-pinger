@@ -1,0 +1,20 @@
+{
+  "name": "binger-pinger",
+  "version": "0.0.0",
+  "description": "Binger Pinger Service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Wysocki",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~4.12.3",
+    "mongoose": "~4.0.0",
+    "node-schedule": "~0.2.6",
+    "promise": "~6.1.0",
+    "net-ping": "~1.1.11",
+    "moment": "~2.9.0",
+    "request": "~2.54.0"
+  }
+}
